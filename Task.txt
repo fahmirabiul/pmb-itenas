@@ -1,0 +1,9 @@
+>> Pendaftaran
+   - pendaftaran sukses, password anda nomor ijazah
+
+>> Ujian Online
+   - input pin, select soal like pin = pin
+   - waktu js = ket.waktu
+   - admin menyatakan lulus -> input data mhs baru
+
+>> Pembayaran
